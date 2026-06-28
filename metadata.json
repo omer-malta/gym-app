@@ -1,0 +1,8 @@
+{
+  "name": "LiftTrack",
+  "description": "Profesyonel fitness takip ve antrenman kayıt uygulaması. Kendi rutinlerinizi oluşturun, setlerinizi kaydedin ve gelişiminizi takip edin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
